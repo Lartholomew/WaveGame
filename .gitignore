@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+WaveGame/[Ll]ibrary/
+WaveGame/[Tt]emp/
+WaveGame/[Oo]bj/
+WaveGame/[Bb]uild/
+WaveGame/[Bb]uilds/
+WaveGame/[Ll]ogs/
+WaveGame/[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
@@ -57,4 +57,3 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
